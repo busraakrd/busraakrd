@@ -22,4 +22,5 @@ src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"
 
   
   
-  ![Github stats 2](https://github-readme-stats.vercel.app/api?username=busraakrd&show_icons=true&theme=cobalt)
+  ![Büşra Nur Karadeniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=busraakrd&show_icons=true&theme=radical)
+
