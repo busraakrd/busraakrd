@@ -1,6 +1,6 @@
 ### Hi there, I'm Büşra 👋
 
-- 🌱 I’m currently learning C programming.
+- 🌱 I did lots of projects in C language. I am currently learning ML using the Python language.
 
 
 ### Connect with me :
